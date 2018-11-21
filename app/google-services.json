@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "309361978918",
+    "firebase_url": "https://futureguide-4a99e.firebaseio.com",
+    "project_id": "futureguide-4a99e",
+    "storage_bucket": "futureguide-4a99e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309361978918:android:c62443300c1d64e3",
+        "android_client_info": {
+          "package_name": "com.mutahir.futureguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309361978918-qq0qhrm49c9trvhvkefd3cn7avaes5qp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mutahir.futureguide",
+            "certificate_hash": "baa1cf669b515b642229d2bc954624fd92f36344"
+          }
+        },
+        {
+          "client_id": "309361978918-cg50t13keenqib6bqp9old4cv1sfpmpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mutahir.futureguide",
+            "certificate_hash": "36eda049bb9d339c37331d7b3b09f942a468695b"
+          }
+        },
+        {
+          "client_id": "309361978918-2kn4fi23f2ovuj8mbapmp4ivn4lmav3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh8UD-9T4p-jM0sVv0b3Q6bIUZbelzJR8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309361978918-2kn4fi23f2ovuj8mbapmp4ivn4lmav3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

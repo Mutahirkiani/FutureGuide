@@ -1,0 +1,24 @@
+<RelativeLayout android:layout_width="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/btnAlready"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="53dp"
+        android:text="Already have an account"
+        android:background="#f2a0a0"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/btnCreateAccount"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/btnAlready"
+        android:layout_below="@+id/btnAlready"
+        android:layout_marginTop="33dp"
+        android:background="#78f75b"
+        android:text="Create New Account" />
+
+</RelativeLayout>
